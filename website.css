@@ -7,6 +7,7 @@ body{
     background-image: linear-gradient(to left top, #a1001c, #bd3e5a, #cd6e93, #d59cc2, #dfc8e4, #d6c5e2, #cec3e0, #c5c0dd, #9b93c4, #7267aa, #483e90, #111776);
 }
 
-p{
-    margin: centre;
+h1{
+    font-size: 47px;
+    text-align: center;
 }
