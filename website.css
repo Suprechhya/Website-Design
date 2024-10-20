@@ -5,6 +5,8 @@
 
 body{
     background-image: linear-gradient(to right bottom, #22035c, #4a327b, #705e9a, #988cb9, #c2bcd7, #cbbfda, #d3c2dc, #dcc5de, #cf96b7, #c26784, #ad3748, #890303);
+}
+
 h1{
     font-size: 60px;
     text-align: center;
