@@ -4,13 +4,12 @@
 }
 
 body{
-    background-image: linear-gradient(to left top, #a1001c, #bd3e5a, #cd6e93, #d59cc2, #dfc8e4, #d6c5e2, #cec3e0, #c5c0dd, #9b93c4, #7267aa, #463b9c, #111776);
-}
-
+    background-image: linear-gradient(to right bottom, #22035c, #4a327b, #705e9a, #988cb9, #c2bcd7, #cbbfda, #d3c2dc, #dcc5de, #cf96b7, #c26784, #ad3748, #890303);
 h1{
     font-size: 60px;
     text-align: center;
 }
+
 
 h3{
     font-size:30px;
